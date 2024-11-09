@@ -1,10 +1,10 @@
-# Hi, I'm [lowrlde]
+# Hi, I'm lowrlde
 
 Welcome to my GitHub! I’m a passionate developer who loves building things with code. Here you'll find some of my favorite projects, tech stack, and a bit about myself.
 
 ## About Me
 
-- Currently working on [/dbe].
+- Founder of [/dbe](https://discord.gg/dbe)
 - Learning and exploring [new technology/skill].
 - Open to collaborating on interesting and impactful projects.
 - Always happy to chat about [tech topic] or [personal interest].
