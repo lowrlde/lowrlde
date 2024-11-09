@@ -11,7 +11,7 @@ Welcome to my GitHub! I’m a passionate developer who loves building things wit
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lowrlde&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=default)
 
 ## Tech Stack
 
